@@ -1,4 +1,4 @@
-# About
+# About the project
 
 1. Link to the Boston crime dataset : https://www.kaggle.com/AnalyzeBoston/crimes-in-boston
 
